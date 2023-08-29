@@ -10,7 +10,7 @@ To configure the app:
 dotnet restore workload wasi-experimental
 ```
 
-This command requiress admin/`root`.
+This command requires admin/`root`.
 
 Build and run the app via the following pattern:
 
